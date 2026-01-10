@@ -1,4 +1,7 @@
 {
+	"languages": [
+        "C", "C++", "C++11", "GLSL"
+   ],
 	"style": "File",
 	"format_on_save": true,
 }
